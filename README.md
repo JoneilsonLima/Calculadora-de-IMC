@@ -8,3 +8,5 @@ Uma simples (porém funcional) calculadora de IMC feita com JavaScript.
 Abaixo você pode conferir o projeto.
 
 [calculadora-de-imc.webm](https://user-images.githubusercontent.com/73480168/178169858-712610e3-5d6d-4494-b164-8b4731690c39.webm)
+
+Você pode acessar o projeto em: https://joneilsonlima.github.io/Calculadora-de-IMC/
